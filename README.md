@@ -1,7 +1,6 @@
 <h1 align="center">Formulário de cadastro responsivo desenvolvido com HTML e CSS</h1>
 
-## Screenshot 📷
-Coming soon
+![Video_230615185536](https://github.com/giulianasantana/formulario-de-cadastro/assets/133705620/2c08afde-ac2a-44b4-8dd0-d34f19fa54b1)
 
 ## Tecnologias 💻
 * HTML
